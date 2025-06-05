@@ -178,7 +178,6 @@ You can install all required packages via a single command (see “Installation�
    ```bash
    git clone https://github.com/Himanshu420247/DiaScan.git
    cd DiaScan
-````
 
 2. **(Recommended) Create a virtual environment**
 
@@ -444,10 +443,6 @@ If you have any questions, suggestions, or run into issues, please feel free to 
 
 Thank you for checking out **DiaScan**! Contributions and feedback are welcome.
 
-````
-
----
-
 ### How to Add This `README.md` to Your Repository
 
 1. Copy the entire Markdown content above.  
@@ -459,7 +454,6 @@ Thank you for checking out **DiaScan**! Contributions and feedback are welcome.
    git add README.md
    git commit -m "Add detailed README for DiaScan"
    git push origin main
-````
 
 After that, GitHub will automatically render your new **README.md** on the repository’s front page. Enjoy!
 
